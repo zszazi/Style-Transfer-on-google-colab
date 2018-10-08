@@ -1,9 +1,11 @@
 # Style-Transfer-on-google-colab
 Implementing the style transfer algorithm using VGG model on google Colab 
 
-![1](https://user-images.githubusercontent.com/41579863/46610758-48c88a80-cb29-11e8-91d0-9b438da75b59.gif)
-![2](https://user-images.githubusercontent.com/41579863/46610759-48c88a80-cb29-11e8-9ac8-d1e9a34ba08a.gif)
-![3](https://user-images.githubusercontent.com/41579863/46610760-49612100-cb29-11e8-846c-bd041b018bc7.gif)
+
+![1](https://user-images.githubusercontent.com/41579863/46611256-ee302e00-cb2a-11e8-8d06-8e4af22d4df8.gif)
+![2](https://user-images.githubusercontent.com/41579863/46611258-ee302e00-cb2a-11e8-946f-78ea0ae01b18.gif)
+![3](https://user-images.githubusercontent.com/41579863/46611259-ee302e00-cb2a-11e8-9dac-a34991673581.gif)
+
                                                                   This above Gif was created by collecting results from the actual model run by the **author** of this repo on google colab
 
 Credit goes to *https://github.com/ldfrancis/*
